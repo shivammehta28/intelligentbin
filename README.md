@@ -11,4 +11,4 @@ The camera will read your object(waste) and classify into recyclable and non rec
 In this project data-set for Pepsi can and Lays are uploaded in two folders with respective names.
 Two xml files have been created after training with the given data sets used in this project
 Place the object in front of the camera and the machine will select a slot for you.
-You are all set towards a swachh nation
+You are all set towards a swachh nation.
